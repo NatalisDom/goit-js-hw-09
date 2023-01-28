@@ -16,3 +16,15 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  font-size: 22px;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+.timer .value {
+  border:1px solid blue ;
+  padding: 0 6px;
+  border-radius: 9px;
+}
